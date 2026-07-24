@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/MBTI-ISTP-38d9ff?style=for-the-badge&logo=psychology&logoColor=black" alt="MBTI"/>
   <img src="https://img.shields.io/badge/Age-만_19세-ff4fd8?style=for-the-badge&logo=user&logoColor=white" alt="Age"/>
 </p>
+<img src="https://komarev.com/ghpvc/?username=yonghun0310&label=Profile+Views&color=39FF88&style=for-the-badge" alt="views"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun0310&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -91,14 +94,6 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-
-
 ## 📬 Connect with Me
 
 <div align="center">
@@ -115,11 +110,11 @@ const developer = {
 <a href="https://www.reddit.com/user/fxck1ng_exam/">
   <img src="https://img.shields.io/badge/Reddit-fxck1ng__exam-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/KakaoTalk-Destrxyer--_--FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk"/>
 <img src="https://img.shields.io/badge/Discord-y.0__0.h-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+
+<a href="https://yonghun.pro">
+  <img src="https://img.shields.io/badge/Website-yonghun.pro-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>
+</a>
 
 </div>
 
