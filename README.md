@@ -91,19 +91,13 @@ const developer = {
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yonghun0310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF88&icon_color=39FF88&text_color=c9d1d9&ring_color=39FF88" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun0310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF88&text_color=c9d1d9" alt="Top Languages" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yonghun0310&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub Streak" height="180"/>
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yonghun0310/yonghun0310/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yonghun0310/yonghun0310/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yonghun0310/yonghun0310/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 📬 Connect with Me
