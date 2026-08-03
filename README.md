@@ -94,6 +94,16 @@ const developer = {
 
 ---
 
+## 🚀 Projects
+
+- 📱 **새숨 (Saesoom)** — 직접 개발한 iOS 앱
+
+<a href="https://apps.apple.com/kr/app/%EC%83%88%EC%88%A8/id6795698143">
+  <img src="https://img.shields.io/badge/App_Store-새숨_(Saesoom)-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+
+---
+
 ## 📬 Connect with Me
 
 <div align="center">
